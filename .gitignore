@@ -1,0 +1,4 @@
+*.ps1
+mingit/
+.system_generated/
+*.zip
